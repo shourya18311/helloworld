@@ -203,7 +203,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  
+  background: url(../css/cover2.png);
   background-size: cover;
   background-position: center;
  
@@ -318,7 +318,7 @@
   color:black;  
   font-family:'Canela', serif;  
   font-size:  70px;
-   margin-left: 38vw; 
+   margin-left: 35vw; 
   padding: 0px 0px; z-index: 1;  
   width: 250px; height: 200px;
 }
@@ -330,11 +330,11 @@
   width: 35vw; font-size: 1.2vw; 
   font-family:'GT America Light' , open sans; 
    color: #222222; z-index: 1;
-   margin-top: -10vh;
+   margin-top: -12vh;
  }
 
  .p1_2{
-  margin-left: 34vw; 
+  margin-left: 30vw; 
  
   max-width: 630px; 
   font-size: 20px; 
